@@ -1,0 +1,4 @@
+curl -sIL bit.ly/
+1072s3U | grep ^Location | cut -d ' ' -f2
+
+
